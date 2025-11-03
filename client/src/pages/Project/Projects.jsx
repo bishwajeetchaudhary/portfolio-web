@@ -10,7 +10,7 @@ const Projects = () => {
         </h2>
         <hr />
         <p className='pb-3 text-center'>
-          👉 Here are my recent Projects with live link and source code
+          👉 Here are my recent Projects with source code
         </p>
         {/* card design */}
         <div className='row' id='ads'>
@@ -18,8 +18,8 @@ const Projects = () => {
             <div className='col-md-4'>
               <div className='card rounded'>
                 <div className="card-image">
-                  <span className="card-notify-badge">Full Stack</span>
-                  <img src="../../../public/photo.jpg" alt="Project1" />
+                  <span className="card-notify-badge">Full Stack airbnb</span>
+                  <img src="../../../public/airbnb.png" alt="Project1" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">Node</span>
@@ -30,7 +30,7 @@ const Projects = () => {
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
                     <h5 className="text-uppercase">
-                      Shopping Website
+                      airbnb
                     </h5>
                   </div>
                   <a className='ad-btn' href="https://github.com/bishwajeetchaudhary/airbnb">
@@ -42,20 +42,20 @@ const Projects = () => {
             <div className='col-md-4'>
               <div className='card rounded'>
                 <div className="card-image">
-                  <span className="card-notify-badge">Landing Page</span>
-                  <img src="../../../public/photo.jpg" alt="Project1" />
+                  <span className="card-notify-badge">Shopping Web App</span>
+                  <img src="../../../public/shopping-web.png" alt="Project2" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">TypeScript</span>
+                  <span className="card-detail-badge">React </span>
                   <span className='card-detail-badge'>CSS</span>
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
                     <h5 className="text-uppercase">
-                      Landing Page
+                      Sleepkart
                     </h5>
                   </div>
-                  <a className='ad-btn' href="https://github.com/bishwajeetchaudhary/landing-page_money-map">
+                  <a className='ad-btn' href="https://github.com/bishwajeetchaudhary/shopping-cart-app">
                     View
                   </a>
                 </div>
@@ -64,22 +64,21 @@ const Projects = () => {
             <div className='col-md-4'>
               <div className='card rounded'>
                 <div className="card-image">
-                  <span className="card-notify-badge">Full Stack</span>
-                  <img src="../../../public/photo.jpg" alt="Project1" />
+                  <span className="card-notify-badge">Food Recipe</span>
+                  <img src="../../../public/food_app.png" alt="Project3" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">Node</span>
-                  <span className="card-detail-badge">Express</span>
-                  <span className="card-detail-badge">React</span>
-                  <span className="card-detail-badge">Mongodb</span>
+                  <span className="card-detail-badge">JavaScript</span>
+                  <span className="card-detail-badge">CSS</span>
+                  <span className="card-detail-badge">HTML</span>
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
                     <h6 className="text-uppercase">
-                      Shopping Website
+                      Gomato
                     </h6>
                   </div>
-                  <a className='ad-btn' href="https://github.com/bishwajeetchaudhary/airbnb">
+                  <a className='ad-btn' href="https://github.com/bishwajeetchaudhary/food-Recipe">
                     View
                   </a>
                 </div>

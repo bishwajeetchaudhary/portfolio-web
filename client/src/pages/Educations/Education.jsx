@@ -13,7 +13,7 @@ const customContent = [
   </div>,
   <div key="card3">
     <h3>Shree Saraswati Model Sec. School, Janakpurdham Nepal</h3>
-    <p>LKG-10</p>
+    <p>1-10</p>
   </div>,
 ];
 
@@ -27,7 +27,7 @@ const items = [
     title: "2019-2021", // Corresponds to customContent[1]
   },
   {
-    title: "2008-2019", // Corresponds to customContent[1]
+    title: "2010-2019", // Corresponds to customContent[1]
   },
 ];
 const Education = () => {
