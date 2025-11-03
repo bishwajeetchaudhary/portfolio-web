@@ -28,7 +28,7 @@ const Projects = () => {
                   <span className="card-detail-badge">Mongodb</span>
                 </div>
                 <div className="card-body text-center">
-                  <div className="ad-title m-auto">
+                  <div className=" m-auto">
                     <h5 className="text-uppercase">
                       airbnb
                     </h5>
@@ -50,7 +50,7 @@ const Projects = () => {
                   <span className='card-detail-badge'>CSS</span>
                 </div>
                 <div className="card-body text-center">
-                  <div className="ad-title m-auto">
+                  <div className=" m-auto">
                     <h5 className="text-uppercase">
                       Sleepkart
                     </h5>
@@ -73,7 +73,7 @@ const Projects = () => {
                   <span className="card-detail-badge">HTML</span>
                 </div>
                 <div className="card-body text-center">
-                  <div className="ad-title m-auto">
+                  <div className="m-auto">
                     <h6 className="text-uppercase">
                       Gomato
                     </h6>
