@@ -19,7 +19,7 @@ const Projects = () => {
               <div className='card rounded'>
                 <div className="card-image">
                   <span className="card-notify-badge">Full Stack airbnb</span>
-                  <img src="../../../public/airbnb.png" alt="Project1" />
+                  <img src="../../../airbnb.png" alt="Project1" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">Node</span>
@@ -43,7 +43,7 @@ const Projects = () => {
               <div className='card rounded'>
                 <div className="card-image">
                   <span className="card-notify-badge">Shopping Web App</span>
-                  <img src="../../../public/shopping-web.png" alt="Project2" />
+                  <img src="../../../shopping-web.png" alt="Project2" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">React </span>
@@ -65,7 +65,7 @@ const Projects = () => {
               <div className='card rounded'>
                 <div className="card-image">
                   <span className="card-notify-badge">Food Recipe</span>
-                  <img src="../../../public/food_app.png" alt="Project3" />
+                  <img src="../../../food_app.png" alt="Project3" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">JavaScript</span>
