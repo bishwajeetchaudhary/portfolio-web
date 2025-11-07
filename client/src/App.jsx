@@ -1,4 +1,5 @@
 import Layout from "./components/Layout/Layout";
+import MobileNav from "./components/MobileNav/MobileNav";
 import { useTheme } from "./context/ThemeContext";
 import About from "./pages/About/About";
 import Contact from "./pages/Contact/Contact";
@@ -14,6 +15,7 @@ function App() {
   return (
     <>
       <div id={theme}>
+        <MobileNav />
         <Layout />
         <div className="container">
           <About />
@@ -34,4 +36,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
